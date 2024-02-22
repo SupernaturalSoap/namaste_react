@@ -1,0 +1,16 @@
+// EP 1
+What is CORS. What is cross origin.
+React and ReactDOM.
+React coms with a philosophy that whatever you want to do inside the browser we have to do it using JS.
+The {} in react.createElement is the place where you'll give attributes.
+React.createElement() returns some object, it is not some html BUT an object(a react element).
+The render is converting the react element to html(which the browser understands) and puts it in the dom.
+Why do we need JSX.
+Difference between Git and GitHub.
+How to setup ssh inside git.
+
+
+// EP 2
+What is npm ? Every thing but node package manager. HAHA
+Its not an abbrevation for node package manager. It does manage node packages.
+
