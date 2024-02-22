@@ -1,0 +1,20 @@
+{
+  "name": "namaste_react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SupernaturalSoap/namaste_react.git"
+  },
+  "keywords": [],
+  "author": "Vinod Meena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SupernaturalSoap/namaste_react/issues"
+  },
+  "homepage": "https://github.com/SupernaturalSoap/namaste_react#readme"
+}
